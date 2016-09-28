@@ -1,0 +1,173 @@
+body {
+	height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+	background-color: #fff;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px; 
+	color: #000;
+}
+
+a:link, a:visited {
+	color: #4682b4;
+}
+
+a:hover {
+	color: #4169e1;
+}
+.page0{
+	
+	width:100%;
+	height:100%;
+	display: inline-block;
+}
+#title{
+	width: 100%;
+	height:30%;
+	float:left;
+	font-size: 4.00rem;
+}
+#title p{
+	padding-top: 5%;
+	padding-left: 35%;
+}
+#subTitle {
+	font-size:2.50rem;
+	width: 100%;
+	float:left;
+	height:20%;
+}
+#subTitle p{
+	float:right;
+	padding-right: 25%;
+}
+#groupMembers{
+	font-size:2.00rem;
+	width: 100%;
+	float:left;
+	height:50%;
+}
+#groupMembers p{
+	line-height: 30px;
+	float:right;
+	padding-right: 25%;
+}
+	
+#graphPage{
+	width:100%;
+	height:100%;
+}
+#main	{
+	width: 70%;
+	height:100%;
+	float: left;
+}
+#column{
+	width:30%;
+	height:100%;
+	float:left;
+	background-color: rgb(0,0,51);
+}
+.column2{
+	width:30%;
+	height:100%;
+	float:left;
+	background-color: #2C343C;
+}
+#column_header{
+	background-color: rgb(0,0,51);
+	width:100%;
+	height:15%;
+	border-bottom: 1px solid;
+   	font-size: 2.5rem;
+  	font-family: 'Century Gothic';;
+  	font-weight: normal;
+  	color:#B8B9BA;
+}
+#column_content li{
+  margin-top: 5%;
+  text-align: center;
+  /*margin-top:-0.15%;*/
+  font-size:1.5rem;
+  line-height: 2.20rem;
+  font-family: 'Lucida Sans Unicode';
+}
+#column_content{
+	width:100%;
+	height:70%;
+	background-color: rgb(0,0,51);
+	color:#B8B9BA;
+}
+.column_content2 li{
+  margin-top: 5%;
+  text-align: center;
+  /*margin-top:-0.15%;*/
+  font-size:1.5rem;
+  line-height: 2.20rem;
+  font-family: 'Lucida Sans Unicode';
+}
+#main2 {
+	width: 70%;
+	height:100%;
+	float: left;
+
+}
+
+.column_content2{
+	width:100%;
+	height:70%;
+	background-color: #2C343C;
+	color:#B8B9BA;
+}
+.column_header2{
+	background-color: #2C343C;
+	width:100%;
+	height:15%;
+	border-bottom: 1px solid;
+   	font-size: 2.5rem;
+  	font-family: 'Century Gothic';;
+  	font-weight: normal;
+  	color:#B8B9BA;
+
+}
+.column_content2{
+	width:100%;
+	height:70%;
+	background-color:#2C343C;
+	
+}
+#main3	{
+	width: 70%;
+	height:100%;
+	float: left;
+}
+
+#column3{
+	width:30%;
+	height:100%;
+	float:left;
+}
+#column_header3{
+	
+	width:100%;
+	height:15%;
+	border-bottom: 1px solid;
+   	font-size: 2.5rem;
+  	font-family: 'Century Gothic';;
+  	font-weight: normal;
+  	
+
+}
+#columnMain3{
+	width:100%;
+	height:70%;
+}
+#columnMain3 li{
+  margin-top: 5%;
+  text-align: center;
+  /*margin-top:-0.15%;*/
+  font-size:1.5rem;
+  line-height: 2.20rem;
+  font-family: 'Lucida Sans Unicode';
+}
